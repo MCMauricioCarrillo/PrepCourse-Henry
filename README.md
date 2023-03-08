@@ -1,1 +1,1 @@
-Esta es una prueba de como crear un repositorio y clonarlo desde git hub a mi computadora
+Proyecto prueba de Clonacion desde la nube a la computadora Mauricio Carrillo
